@@ -1,0 +1,1 @@
+ALTER TABLE `outbound_submissions` ADD `trace_guid` text;
